@@ -5,6 +5,7 @@ define('APP_DEBUG', true);
 echo 'Hello world3!!';
 echo 'Hello world4!!';
 echo 'Hello World5!!';
+echo 'Hello World6!!';
 
 require dirname(dirname(__FILE__)).'/ThinkPHP/ThinkPHP.php';
 ?>

@@ -2,7 +2,7 @@
 define('APP_NAME', 'Home');
 define('APP_PATH',dirname(__FILE__).'/');
 define('APP_DEBUG', true);
-echo 'Hello World!!';
+echo 'Hello World2!!';
 
 require dirname(dirname(__FILE__)).'/ThinkPHP/ThinkPHP.php';
 ?>
